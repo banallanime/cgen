@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "toml": "^3.0.0"
+  }
+}

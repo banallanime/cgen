@@ -1,0 +1,14 @@
+[[Project]]
+[Project.Settings]
+type = "InternMap"
+name = "G_ExtensionArrayMap"
+[Project.KeyPair]
+EXTENSION_OFFSET_SURFACE = "VK_KHR_surface\0"
+EXTENSION_OFFSET_SWAPCHAIN = "VK_KHR_swapchain\0"
+EXTENSION_OFFSET_SHADER_FP16 = "VK_KHR_shader_float16_int8\0"
+EXTENSION_OFFSET_MESH_SHADER = "VK_EXT_mesh_shader\0"
+EXTENSION_OFFSET_MULTI_DRAW = "VK_EXT_multi_draw\0"
+EXTENSION_OFFSET_RAY_TRACING = "VK_KHR_ray_tracing_pipeline\0"
+EXTENSION_OFFSET_WIN32_SURFACE = "VK_KHR_win32_surface\0"
+EXTENSION_OFFSET_XLIB_SURFACE = "VK_KHR_xlib_surface\0"
+EXTENSION_OFFSET_WAYLAND_SURFACE = "VK_KHR_wayland_surface\0"
